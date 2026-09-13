@@ -12,3 +12,4 @@ This repository was created on 13 September 2026 for CSE 1102.11 Section 11 in o
 =The main parts/ features of GitHub is local and remote. 
 ## What are the stages of Git/GitHub?
 =Common git workflow has these stages:1.Working Directory 2. Staging Area. 3. Git Directory 
+[Markdown Guide Cheat Sheet](https://www.markdownguide.org/cheat-sheet/?utm_source=chatgpt.com)
