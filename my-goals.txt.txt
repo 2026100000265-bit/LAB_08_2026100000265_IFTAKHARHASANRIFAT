@@ -1,0 +1,4 @@
+my-goals.txt
+1.Python programming 
+2.Game Development
+3.Ai coding  
